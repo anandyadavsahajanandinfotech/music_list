@@ -4,7 +4,7 @@
     {
       "id": "1",
       "title": "Forest",
-      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/forest_hor.jpeg",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/forest_hor.jpg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/forest_ver.jpeg",
       "music_url": "https://neon-lollipop-17439f.netlify.app/forest.mp3",
       "type": "nature",
@@ -13,7 +13,7 @@
     {
       "id": "2",
       "title": "Mountains",
-      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/monutains_hor.jpg",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/mountains_hor.jpg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/monutains_ver.jpg",
       "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
       "type": "nature",
