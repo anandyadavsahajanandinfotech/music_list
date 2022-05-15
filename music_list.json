@@ -1,0 +1,275 @@
+{
+  "status": "success",
+  "music": [
+    {
+      "id": "1",
+      "title": "Forest",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/forest_hor.jpeg",
+      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/forest_ver.jpeg",
+      "music_url": "https://neon-lollipop-17439f.netlify.app/forest.mp3",
+      "type": "nature",
+      "desc":"Feel the Moment of Forest"
+    },
+    {
+      "id": "2",
+      "title": "Mountains",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/monutains_hor.jpg",
+      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/monutains_ver.jpg",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "nature",
+      "desc":"Go where you feel most alive."
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "nature",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "nature",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "nature",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "nature",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "nature",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "nature",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "city",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "city",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "city",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "city",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "city",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "city",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "city",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "city",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "city",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "city",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "relax",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "relax",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "relax",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "relax",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "relax",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "relax",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "relax",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "relax",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "relax",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "relax",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "relax",
+      "desc":"Feel the Moment"
+    },
+    {
+      "id": "1",
+      "title": "Title",
+      "hor_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "ver_bg_image": "https://images.unsplash.com/photo-1492486169476-8c5dafd9539f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzk0MjB8fGVufDB8fHx8&w=1000&q=80",
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "type": "relax",
+      "desc":"Feel the Moment"
+    }
+  ]
+}
