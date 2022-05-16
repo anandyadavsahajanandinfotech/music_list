@@ -6,7 +6,7 @@
       "title": "Forest",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/forest_hor.jpg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/forest_ver.jpeg",
-      "music_url": "https://neon-lollipop-17439f.netlify.app/forest.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/forest_lat.mp3",
       "type": "nature",
       "desc": "Feel the Moment of Forest."
     },
@@ -15,7 +15,7 @@
       "title": "Mountains",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/mountains_hor.jpg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/monutains_ver.jpg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/mountains.mp3",
       "type": "nature",
       "desc": "Go where you feel most alive."
     },
@@ -24,7 +24,7 @@
       "title": "Underwater",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/under_water_hor.jpg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/under_water_ver.jpg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/underwater.mp3",
       "type": "nature",
       "desc": "Stay calm and dive on."
     },
@@ -33,7 +33,7 @@
       "title": "Camp Fire",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/camp_fir_hor.jpg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/camp_fir_ver.jpg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/camp_fire.mp3",
       "type": "nature",
       "desc": "Camp away your worries."
     },
@@ -42,7 +42,7 @@
       "title": "Strom",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/strom_hor.jpg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/strom_ver.jpg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/strom.mp3",
       "type": "nature",
       "desc": "Remember to play after every storm."
     },
@@ -51,7 +51,7 @@
       "title": "Cafe",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/cafe_hor.jpeg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/cafe_ver.jpeg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/cafe.mp3",
       "type": "city",
       "desc": "Coffee with character."
     },
@@ -60,7 +60,7 @@
       "title": "Train",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/train_hor.jpeg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/train_ver.jpeg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/train.mp3",
       "type": "city",
       "desc": "Train, don't strain."
     },
@@ -69,7 +69,7 @@
       "title": "Airplane",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/airplane_hor.jpeg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/airplane_ver.jpeg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/airplane.mp3",
       "type": "city",
       "desc": "Fly Your Dreams."
     },
@@ -78,7 +78,7 @@
       "title": "Office",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/office_hor.jpeg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/office_ver.jpeg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/office.mp3",
       "type": "city",
       "desc": "Look At THe Results."
     },
@@ -87,7 +87,7 @@
       "title": "Highway",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/highway_hor.jpeg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/meritt-thomas-GktK3Jb9BRE-unsplash.jpeg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/highway.mp3",
       "type": "city",
       "desc": "Safe Driving, Saves Lives."
     },
@@ -96,7 +96,7 @@
       "title": "Basketball",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/basketball_hor.jpeg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/basketball_ver.jpeg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/basketball.mp3",
       "type": "city",
       "desc": "Basketball never stops."
     },
@@ -105,7 +105,7 @@
       "title": "Open Space",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/2.jpeg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/open_space_ver.jpeg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/open_space.mp3",
       "type": "relax",
       "desc": "Discovering the beyond."
     },
@@ -114,7 +114,7 @@
       "title": "Buddha Temple",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/buddha_temple_hor.jpeg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/buddha_temple_ver.jpeg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/bhdhha_temple.mp3",
       "type": "relax",
       "desc": "Give, even if you only have a little."
     },
@@ -123,7 +123,7 @@
       "title": "Meditation",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/meditation_hor.jpeg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/meditation_ver.jpeg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/meditation.mp3",
       "type": "relax",
       "desc": "Meditation for everyone."
     },
@@ -132,7 +132,7 @@
       "title": "Heartbeat",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/heartbeat_hor.jpeg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/heartbeat_ver.jpeg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/heartbeat.mp3",
       "type": "relax",
       "desc": "You can't beat a healthy heart."
     },
@@ -141,7 +141,7 @@
       "title": "Focus",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/focus_hor.jpeg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/focus_ver.jpeg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/focus.mp3",
       "type": "relax",
       "desc": "Do whatever you do intensely."
     },
@@ -150,7 +150,7 @@
       "title": "Clamness",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/clams_hor.jpeg",
       "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/clams_ver.jpeg",
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/clams.mp3",
       "type": "relax",
       "desc": "Find inner peace."
     }
