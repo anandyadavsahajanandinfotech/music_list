@@ -5,7 +5,7 @@
       "id": "1",
       "title": "Forest",
       "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/forest_hor.jpg",
-      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/forest_ver.jpeg",
+      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/forest_ver.jpg",
       "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/forest_lat.mp3",
       "type": "nature",
       "desc": "Feel the Moment of Forest."
@@ -49,8 +49,8 @@
     {
       "id": "7",
       "title": "Cafe",
-      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/cafe_hor.jpeg",
-      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/cafe_ver.jpeg",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/cafe_hor.jpg",
+      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/cafe_ver.jpg",
       "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/cafe.mp3",
       "type": "city",
       "desc": "Coffee with character."
@@ -58,8 +58,8 @@
     {
       "id": "8",
       "title": "Train",
-      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/train_hor.jpeg",
-      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/train_ver.jpeg",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/train_hor.jpg",
+      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/train_ver.jpg",
       "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/train.mp3",
       "type": "city",
       "desc": "Train, don't strain."
@@ -67,8 +67,8 @@
     {
       "id": "9",
       "title": "Airplane",
-      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/airplane_hor.jpeg",
-      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/airplane_ver.jpeg",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/airplane_hor.jpg",
+      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/airplane_ver.jpg",
       "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/airplane.mp3",
       "type": "city",
       "desc": "Fly Your Dreams."
@@ -76,8 +76,8 @@
     {
       "id": "10",
       "title": "Office",
-      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/office_hor.jpeg",
-      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/office_ver.jpeg",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/office_hor.jpg",
+      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/office_ver.jpg",
       "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/office.mp3",
       "type": "city",
       "desc": "Look At THe Results."
@@ -85,8 +85,8 @@
     {
       "id": "11",
       "title": "Highway",
-      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/highway_hor.jpeg",
-      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/meritt-thomas-GktK3Jb9BRE-unsplash.jpeg",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/highway_hor.jpg",
+      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/meritt-thomas-GktK3Jb9BRE-unsplash.jpg",
       "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/highway.mp3",
       "type": "city",
       "desc": "Safe Driving, Saves Lives."
@@ -94,8 +94,8 @@
     {
       "id": "12",
       "title": "Basketball",
-      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/basketball_hor.jpeg",
-      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/basketball_ver.jpeg",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/basketball_hor.jpg",
+      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/basketball_ver.jpg",
       "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/basketball.mp3",
       "type": "city",
       "desc": "Basketball never stops."
@@ -103,8 +103,8 @@
     {
       "id": "13",
       "title": "Open Space",
-      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/2.jpeg",
-      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/open_space_ver.jpeg",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/2.jpg",
+      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/open_space_ver.jpg",
       "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/open_space.mp3",
       "type": "relax",
       "desc": "Discovering the beyond."
@@ -112,8 +112,8 @@
     {
       "id": "14",
       "title": "Buddha Temple",
-      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/buddha_temple_hor.jpeg",
-      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/buddha_temple_ver.jpeg",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/buddha_temple_hor.jpg",
+      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/buddha_temple_ver.jpg",
       "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/bhdhha_temple.mp3",
       "type": "relax",
       "desc": "Give, even if you only have a little."
@@ -121,8 +121,8 @@
     {
       "id": "15",
       "title": "Meditation",
-      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/meditation_hor.jpeg",
-      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/meditation_ver.jpeg",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/meditation_hor.jpg",
+      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/meditation_ver.jpg",
       "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/meditation.mp3",
       "type": "relax",
       "desc": "Meditation for everyone."
@@ -130,8 +130,8 @@
     {
       "id": "16",
       "title": "Heartbeat",
-      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/heartbeat_hor.jpeg",
-      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/heartbeat_ver.jpeg",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/heartbeat_hor.jpg",
+      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/heartbeat_ver.jpg",
       "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/heartbeat.mp3",
       "type": "relax",
       "desc": "You can't beat a healthy heart."
@@ -139,8 +139,8 @@
     {
       "id": "17",
       "title": "Focus",
-      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/focus_hor.jpeg",
-      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/focus_ver.jpeg",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/focus_hor.jpg",
+      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/focus_ver.jpg",
       "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/focus.mp3",
       "type": "relax",
       "desc": "Do whatever you do intensely."
@@ -148,8 +148,8 @@
     {
       "id": "18",
       "title": "Clamness",
-      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/clams_hor.jpeg",
-      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/clams_ver.jpeg",
+      "hor_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/clams_hor.jpg",
+      "ver_bg_image": "https://anandyadavsahajanandinfotech.github.io/music_list/clams_ver.jpg",
       "music_url": "https://anandyadavsahajanandinfotech.github.io/music_list/clams.mp3",
       "type": "relax",
       "desc": "Find inner peace."
